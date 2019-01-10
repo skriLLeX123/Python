@@ -1,4 +1,4 @@
-# program to convert given list into array using numpy module
+# program to convert given list into array and using numpy module and reverse the array
 import numpy
 
 def arrays(arr):
