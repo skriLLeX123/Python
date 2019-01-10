@@ -41,3 +41,18 @@ b=numpy.array([int(x) for x in input().split()])
 print(numpy.inner(a,b),numpy.outer(a,b),sep="\n")
 
 
+'''
+
+Sample Input
+
+0 1
+2 3
+
+Sample Output
+
+3
+
+[[0 0]
+ [2 3]]
+ 
+ '''

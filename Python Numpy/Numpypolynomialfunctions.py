@@ -35,3 +35,16 @@ import numpy
 nparray=numpy.array([float(x) for x in input().split()])
 n=float(input())
 print(numpy.polyval(nparray,n))
+
+
+'''
+Sample Input
+
+1.1 2 3
+0
+
+Sample Output
+
+3.0
+
+'''

@@ -10,3 +10,15 @@ nptransposearray=numpy.transpose(npshapedarray)
 npflattenarray=npshapedarray.flatten()
 print(nptransposearray)
 print(npflattenarray)
+
+#Sample Input
+#2 2
+
+#1 2
+#3 4
+
+#Sample Output
+#  [[1 3]
+#   [2 4]]
+
+#  [1 2 3 4

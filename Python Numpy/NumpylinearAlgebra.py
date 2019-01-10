@@ -24,3 +24,16 @@ n=int(input())
 a=numpy.array([[float(x) for x in input().split()] for x in range(n)])
 numpy.set_printoptions(legacy='1.13')
 print(numpy.linalg.det(a))
+
+'''
+Sample Input
+
+2
+1.1 1.1
+1.1 1.1
+
+Sample Output
+
+0.0
+
+'''
