@@ -117,3 +117,14 @@ print(d)
 this is real this is real
 this is real this is it
 
+#-------------------------------------------------------#
+
+#python string swapcase() method
+
+a="Computer science"
+print(a.swapcase())
+
+#output
+cOMPUTER SCIENCE
+
+
