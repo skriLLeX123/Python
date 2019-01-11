@@ -127,4 +127,13 @@ print(a.swapcase())
 #output
 cOMPUTER SCIENCE
 
+#-------------------------------------------------------#
+
+#python string title() method
+
+a="computer science"
+print(a.title())
+
+#output
+Computer Science
 
