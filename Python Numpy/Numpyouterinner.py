@@ -30,10 +30,10 @@ print numpy.inner(A, B)     #Output : 4
 
 #a=[a,b] b=[e,f]
 #  [c,d]   [g,h]
-#outer= a*f a*f a*g a*h
-#       b*f b*f b*g b*h
-#       c*f c*f c*g c*h
-#       d*f d*f d*g d*h
+#outer= a*e a*f a*g a*h
+#       b*e b*f b*g b*h
+#       c*e c*f c*g c*h
+#       d*e d*f d*g d*h
 
 import numpy
 a=numpy.array([int(x) for x in input().split()])
